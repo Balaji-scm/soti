@@ -3,7 +3,7 @@
 
 	<groupId>com.jamcracker.testsoti</groupId>
 	<artifactId>testsoti-adapter</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<packaging>jar</packaging>
 	<name>testsoti</name>
 	<description>Testsoti Adapter Upload as OSS</description>
