@@ -3,7 +3,7 @@
 
 	<groupId>com.jamcracker.testsoti</groupId>
 	<artifactId>testsoti-adapter</artifactId>
-	<version>1.0.2-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>testsoti</name>
 	<description>Testsoti Adapter Upload as OSS</description>
@@ -73,10 +73,10 @@
 	
 	
 	<scm>
-		<connection>scm:git:git://github.com/Balaji-scm/JAM.git</connection>
-		<developerConnection>scm:git:git@github.com:Balaji-scm/JAM.git</developerConnection>
+		<connection>scm:git:git://github.com/Balaji-scm/soti.git</connection>
+		<developerConnection>scm:git:git@github.com:Balaji-scm/soti.git</developerConnection>
 		
-		<url>https://github.com/Balaji-scm/JAM/tree/master</url>
+		<url>https://github.com/Balaji-scm/soti</url>
 	</scm>
 	
 	<properties>
